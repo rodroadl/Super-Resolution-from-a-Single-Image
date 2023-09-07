@@ -1,5 +1,5 @@
 # Super-Resolution-from-a-Single-Image
-This repository contains work of attemption to reproduce the framework and output of paper, [Super-Resolution from a Single Image by Daniel Glasner, Shai Bagon, and Michal Irani](https://www.wisdom.weizmann.ac.il/~vision/single_image_SR/files/single_image_SR.pdf)
+This repository contains work attempting to reproduce the framework and output of paper, [Super-Resolution from a Single Image by Daniel Glasner, Shai Bagon, and Michal Irani](https://www.wisdom.weizmann.ac.il/~vision/single_image_SR/files/single_image_SR.pdf)
 
 ## Resource in paper
 [Super Resolution from Single Image Website](https://www.wisdom.weizmann.ac.il/~vision/SingleImageSR.html)
